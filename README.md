@@ -10,3 +10,4 @@ proxy.dset 指定用国外DNS解析
     国内/国外DNS解析，匹配cnip，直接返回。  
     否则，就返回fakeip
   
+当然，这是动态的。
